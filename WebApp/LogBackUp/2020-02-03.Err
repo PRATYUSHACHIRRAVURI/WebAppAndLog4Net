@@ -1,0 +1,7 @@
+ERROR - System.DivideByZeroException: Attempted to divide by zero.
+   at WebApp._Default.Page_Load(Object sender, EventArgs e) in C:\Users\Pratyusha_Chirravuri\source\repos\WebApp\WebApp\Default.aspx.cs:line 19
+ERROR - System.DivideByZeroException: Attempted to divide by zero.
+   at WebApp._Default.Page_Load(Object sender, EventArgs e) in C:\Users\Pratyusha_Chirravuri\source\repos\WebApp\WebApp\Default.aspx.cs:line 19
+INFO - LOG1
+INFO - LOG2
+INFO - LOG3
